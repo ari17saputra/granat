@@ -1,0 +1,15 @@
+Pemrograman mobile (C) = senin 11.00-13.30 ti202
+analisis dan desain sistem (B) = Senin 13.30-16.00 ti101
+
+arsitektur (A) = selasa 11.00-12.40 ti203b
+Desain dan prilaku organisasi (ada) = selasa 13.30-16.00 ti203b
+
+kecerdasan tiruan (C) = rabu 08.30-09.20 ti203c 
+
+integrasi dan migrasi sistem (A) = kamis 08.30 ti202 
+Internet Of thing (A) = kamis 08.30-11.00 ti201
+
+
+
+
+
